@@ -1,4 +1,4 @@
-# Paso 4. Análisis exploratorio de datos (Python)
+# Recopilación y almacenamiento de datos (SQL)
 
 Además de los datos que recuperaste en las tareas anteriores te han dado un segundo archivo. Ahora tienes estos dos CSV:
 
